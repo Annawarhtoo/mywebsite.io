@@ -3,7 +3,7 @@ url('https://fonts.googleapis.com/css?family=Roboto');
 
 
 .home{
-  background: url("../images/homeback.jpg");
+  background: url("./homeback.jpg");
   background-size: cover;
   height: 100vh;
 }
